@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.xtext.GemGRBAC.sdk_1.0.0.201604111144.jar" id="org.xtext.GemGRBAC.sdk" version="1.0.0.201604111144">
+      <category name="GemRBAC-DSL"/>
+   </feature>
+   <category-def name="GemRBAC-DSL" label="GemRBAC-DSL">
+      <description>
+         GemRBAC-DSL is domain specification language for RBAC policies built on top of the GemRBAC+CTX model.
+      </description>
+   </category-def>
+</site>
